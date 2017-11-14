@@ -1,0 +1,247 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\citeauthoryear{Amundson, Royle, and Handel}{Amundson
+  et~al.}{2014}]{Amundson+al:14}
+Amundson, C., J.~Royle, and C.~Handel (2014).
+\newblock A hierarchical model combining distance sampling and time removal to
+  estimate detection probability during avian point counts.
+\newblock {\em The Auk\/}~{\em 131\/}(4), 476--494.
+
+\bibitem[\protect\citeauthoryear{Arranz, Borchers, Aguilar~de Soto, Johnson,
+  and Cox}{Arranz et~al.}{2014}]{Arranz+al:14}
+Arranz, P., D.~L. Borchers, N.~Aguilar~de Soto, M.~P. Johnson, and M.~J. Cox
+  (2014, April).
+\newblock A new method to study inshore whale cue distribution from land-based
+  observations.
+\newblock {\em Marine Mammal Science\/}~{\em 30\/}(2), 810--818.
+
+\bibitem[\protect\citeauthoryear{Borchers and Langrock}{Borchers and
+  Langrock}{2015}]{Borchers+Langrock:ip}
+Borchers, D. and R.~Langrock (2015).
+\newblock Double-observer line transect surveys with markov-modulated poisson
+  process models for animal availability.
+\newblock {\em Biometrics\/}~{\em DOI: 10.1111/biom.12341}.
+
+\bibitem[\protect\citeauthoryear{Borchers, Buckland, and Zucchini}{Borchers
+  et~al.}{2002}]{Borchers+al:02}
+Borchers, D.~L., S.~T. Buckland, and W.~Zucchini (2002).
+\newblock {\em Estimating Animal Abundance: Closed Populations}.
+\newblock Springer.
+
+\bibitem[\protect\citeauthoryear{Borchers and Burnham}{Borchers and
+  Burnham}{2004}]{Borchers+Burnham:04}
+Borchers, D.~L. and K.~P. Burnham (2004).
+\newblock General formulation for distance sampling.
+\newblock In S.~T. Buckland, D.~R. Anderson, K.~P. Burnham, J.~L. Laake, D.~L.
+  Borchers, and L.~J. Thomas (Eds.), {\em Advanced Distance Sampling.} Oxford
+  University Press.
+
+\bibitem[\protect\citeauthoryear{Borchers, Zucchini, Heide-Jorgensen, Canadas,
+  and Langrock}{Borchers et~al.}{2013}]{Borchers+al:13}
+Borchers, D.~L., W.~Zucchini, M.~P. Heide-Jorgensen, A.~Canadas, and
+  R.~Langrock (2013).
+\newblock Using hidden markov models to deal with availability bias on line
+  transect surveys.
+\newblock {\em Biometrics\/}~{\em 69}, 703--713.
+
+\bibitem[\protect\citeauthoryear{Buckland, Oedekoven, and Borchers}{Buckland
+  et~al.}{2015}]{Buckland+al:15}
+Buckland, S., C.~Oedekoven, and D.~Borchers (2015).
+\newblock Model-based distance sampling.
+\newblock {\em Journal of Agricultural, Biological, and Environmental
+  Statistics\/}, 1--18.
+
+\bibitem[\protect\citeauthoryear{Buckland, Anderson, Burnham, Laake, Borchers,
+  and Thomas}{Buckland et~al.}{2001}]{Buckland+al:01}
+Buckland, S.~T., D.~R. Anderson, K.~P. Burnham, J.~L. Laake, D.~L. Borchers,
+  and L.~J. Thomas (2001).
+\newblock {\em Introduction to {D}istance {S}ampling}.
+\newblock Oxford: Oxford University Press.
+
+\bibitem[\protect\citeauthoryear{Buckland, Anderson, Burnham, Laake, Borchers,
+  and Thomas}{Buckland et~al.}{2004}]{Buckland+al:04}
+Buckland, S.~T., D.~R. Anderson, K.~P. Burnham, J.~L. Laake, D.~L. Borchers,
+  and L.~J. Thomas (2004).
+\newblock {\em Advanced {D}istance {S}ampling}.
+\newblock Oxford: Oxford University Press.
+
+\bibitem[\protect\citeauthoryear{Burnham}{Burnham}{1979}]{Burnham:79}
+Burnham, K.~P. (1979).
+\newblock A parametric generalization of the hayne estimator for line transect
+  sampling.
+\newblock {\em Biometrics\/}~{\em 35}, 587--595.
+
+\bibitem[\protect\citeauthoryear{Burnham and Anderson}{Burnham and
+  Anderson}{1976}]{Burnham+Anderson:76}
+Burnham, K.~P. and D.~Anderson (1976).
+\newblock Mathematical models for non-parametric inference from line transect
+  data.
+\newblock {\em Biometrics\/}~{\em 32}, 325--336.
+
+\bibitem[\protect\citeauthoryear{Burt, Borchers, Jenkins, and Marques}{Burt
+  et~al.}{2015}]{Burt+al:15}
+Burt, M., D.~Borchers, K.~Jenkins, and T.~Marques (2015).
+\newblock Using mark-recapture distance sampling methods on line transect
+  surveys.
+\newblock {\em Methods in Ecology and Evolution\/}~{\em doi:
+  10.1111/2041-210X.12294}.
+
+\bibitem[\protect\citeauthoryear{Ca\~{n}adas, Desportes, and
+  Borchers}{Ca\~{n}adas et~al.}{2004}]{Canadas+al:04}
+Ca\~{n}adas, A., G.~Desportes, and D.~Borchers (2004).
+\newblock The estimation of the detection function and g(0) for short-beaked
+  common dolphins ({\em delphinis delphis}), using double-platform data
+  collected during the {NASS-95} {F}aroese survey.
+\newblock {\em Journal of Cetacean Research and Management\/}~{\em 6},
+  191--198.
+
+\bibitem[\protect\citeauthoryear{Cox, Borchers, Demer, Cutter, and
+  Brierley}{Cox et~al.}{2011}]{Cox+al:11}
+Cox, M.~J., D.~L. Borchers, D.~A. Demer, G.~R. Cutter, and A.~S. Brierley
+  (2011).
+\newblock Estimating the density of antarctic krill ({\em euphausia superba})
+  from multi-beam echo-sounder observations using distance sampling methods.
+\newblock {\em Journal of the Royal Statistical Society: Series C (Applied
+  Statistics)\/}~{\em 60\/}(2), 301–316.
+
+\bibitem[\protect\citeauthoryear{Eberhardt}{Eberhardt}{1978}]{Eberhardt:78}
+Eberhardt, L. (1978).
+\newblock Transect methods for population studies.
+\newblock {\em Journal of Wildlife Management\/}~{\em 42}, 1--31.
+
+\bibitem[\protect\citeauthoryear{Hayes and Buckland}{Hayes and
+  Buckland}{1983}]{Hayes+Buckland:83}
+Hayes, R.~J. and S.~T. Buckland (1983).
+\newblock Radial-distance models for the line-transect method.
+\newblock {\em Biometrics\/}~{\em 39}, 29--42.
+
+\bibitem[\protect\citeauthoryear{Hayne}{Hayne}{1949}]{Hayne:49}
+Hayne, D. (1949).
+\newblock An examination of the strip census method for estimating animal
+  populations.
+\newblock {\em Journal of Wildlife Management\/}~{\em 13}, 145--157.
+
+\bibitem[\protect\citeauthoryear{Langrock, Borchers, and Skaug}{Langrock
+  et~al.}{2013}]{Langrock+al:13}
+Langrock, R., D.~L. Borchers, and H.~J. Skaug (2013).
+\newblock Markov-modulated nonhomogeneous poisson processes for modeling
+  detections in surveys of marine mammal abundance.
+\newblock {\em Journal of the Americal Statistical Association\/}~{\em 108},
+  840--851.
+
+\bibitem[\protect\citeauthoryear{Marques, Buckland, Borchers, Rexstad, and
+  Thomas}{Marques et~al.}{2010}]{Marques+al:10}
+Marques, T., S.~Buckland, D.~Borchers, E.~Rexstad, and L.~Thomas (2010).
+\newblock Distance sampling.
+\newblock In M.~Lovric (Ed.), {\em Springer's International Lexicon of
+  Statistical Science}, pp.\  398--400. Springer.
+
+\bibitem[\protect\citeauthoryear{Marques, Buckland, Borchers, Tosh, and
+  McDonald}{Marques et~al.}{2010a}]{Marques+al:10a}
+Marques, T.~A., S.~T. Buckland, D.~L. Borchers, D.~Tosh, and R.~A. McDonald
+  (2010a).
+\newblock Point transect sampling along linear features.
+\newblock {\em Biometrics\/}~{\em 66\/}(4), 1247--1255.
+
+\bibitem[\protect\citeauthoryear{Miller}{Miller}{2015}]{Miller:15}
+Miller, D.~L. (2015).
+\newblock {\em Distance: Distance Sampling Detection Function and Abundance
+  Estimation}.
+\newblock R package version 0.9.4.
+
+\bibitem[\protect\citeauthoryear{Oehlert}{Oehlert}{1992}]{Oehlert:92}
+Oehlert, D. (1992).
+\newblock A note on the delta method.
+\newblock {\em The American Statistician\/}~{\em 46\/}(1), 27--29.
+
+\bibitem[\protect\citeauthoryear{Okamura}{Okamura}{2003}]{Okamura:03}
+Okamura, H. (2003).
+\newblock A line transect method to estimate abundance of long-diving animals.
+\newblock {\em Fisheries Science\/}~{\em 69}, 1176--1181.
+
+\bibitem[\protect\citeauthoryear{Okamura, Kitakado, Hiramatsu, and
+  Mori}{Okamura et~al.}{2003}]{Okamura+al:03}
+Okamura, H., T.~Kitakado, K.~Hiramatsu, and M.~Mori (2003).
+\newblock Abundance estimation of diving animals by the double-platform line
+  transect method.
+\newblock {\em Biometrics\/}~{\em 59}, 512--520.
+
+\bibitem[\protect\citeauthoryear{Okamura, Minamakawa, and Kitakado}{Okamura
+  et~al.}{2006}]{Okamura+al:06}
+Okamura, H., S.~Minamakawa, and T.~Kitakado (2006).
+\newblock Effect of surfacing patterns on abundance estimates of long-diving
+  animals.
+\newblock {\em Fisheries Science\/}~{\em 72}, 631--638.
+
+\bibitem[\protect\citeauthoryear{Okamura, Minamikawa, Skaug, and
+  Kishiro}{Okamura et~al.}{2012}]{Okamura+al:12}
+Okamura, H., S.~Minamikawa, H.~J. Skaug, and T.~Kishiro (2012).
+\newblock Abundance estimation of long-diving animals using line transect
+  methods.
+\newblock {\em Biometrics\/}~{\em 68}, 504--513.
+
+\bibitem[\protect\citeauthoryear{Schweder}{Schweder}{1974}]{Schweder:74}
+Schweder, T. (1974).
+\newblock {\em Transformations of point processes: applications to animal
+  sighting and catch problems, with special emphasis on whales}.
+\newblock Ph{D} thesis, University of California, Berkeley.
+
+\bibitem[\protect\citeauthoryear{Schweder}{Schweder}{1990}]{Schweder:90}
+Schweder, T. (1990).
+\newblock Independent observer experiments to estimate the detection function
+  in line transect surveys of whales.
+\newblock {\em Report of the International Whaling Commission\/}~{\em 40},
+  349--356.
+
+\bibitem[\protect\citeauthoryear{Schweder, Hagen, Helgeland, and
+  Koppervik}{Schweder et~al.}{1996}]{Schweder+al:96}
+Schweder, T., G.~Hagen, J.~Helgeland, and I.~Koppervik (1996).
+\newblock Abundance estimation of northeastern {A}tlantic minke whales.
+\newblock {\em Report of the International Whaling Commission\/}~{\em 46},
+  391--405.
+
+\bibitem[\protect\citeauthoryear{Schweder, Skaug, Dimakos, Langaas, and
+  Oien}{Schweder et~al.}{1997}]{Schweder+al:97}
+Schweder, T., H.~J. Skaug, X.~K. Dimakos, M.~Langaas, and N.~Oien (1997).
+\newblock Abundance of northeastern {A}tlantic minke whale, estimates for 1989
+  and 1995.
+\newblock {\em Report of the International Whaling Commission\/}~{\em 47},
+  453--483.
+
+\bibitem[\protect\citeauthoryear{Schweder, Skaug, Langaas, and
+  Dimakos}{Schweder et~al.}{1999}]{Schweder+al:99}
+Schweder, T., H.~J. Skaug, M.~Langaas, and X.~K. Dimakos (1999).
+\newblock Simulated likelihood methods for complex double-platform line
+  transect surveys.
+\newblock {\em Biometrics\/}~{\em 55}, 678--687.
+
+\bibitem[\protect\citeauthoryear{Seber}{Seber}{1982}]{Seber:82}
+Seber, G. A.~F. (1982).
+\newblock {\em The estimation of animal abundance and related parameters\/}
+  (2nd ed.).
+\newblock London: Charles Griffin.
+
+\bibitem[\protect\citeauthoryear{Skaug and Schweder}{Skaug and
+  Schweder}{1999}]{Skaug+Schweder:99}
+Skaug, H. and T.~Schweder (1999).
+\newblock Hazard models for line transect surveys with independent observers.
+\newblock {\em Biometrics\/}~{\em 55}, 29--36.
+
+\bibitem[\protect\citeauthoryear{Skaug, Oien, Schweder, and Bothun}{Skaug
+  et~al.}{2004}]{Skaug+al:04}
+Skaug, H.~J., N.~Oien, T.~Schweder, and F.~G. Bothun (2004).
+\newblock Current abundance of minke whales ({\em balaenoptera acutorostrata})
+  in the northeast atlantic; variability in time and space.
+\newblock {\em Canadian Journal of Fisheries and Aquatic Sciences\/}~{\em 61},
+  870--886.
+
+\bibitem[\protect\citeauthoryear{Solymos, Matsuoka, Bayne, Lele, Fontaine,
+  Cumming, Stralberg, Schmiegelow, and Song}{Solymos
+  et~al.}{2013}]{Solymos+al:13}
+Solymos, P., S.~Matsuoka, E.~Bayne, S.~Lele, P.~Fontaine, S.~Cumming,
+  D.~Stralberg, F.~Schmiegelow, and S.~Song (2013).
+\newblock Calibrating indices of avian density from non-standardized survey
+  data: making the most of a messy situation.
+\newblock {\em Methods in Ecology and Evolution\/}~{\em 4\/}(11), 1047--1058.
+
+\end{thebibliography}
